@@ -1,0 +1,8 @@
+{
+  "name": "FormSaathi",
+  "description": "Bilingual (English and Telugu) Indian scholarship and government scheme notification analyzer, preliminary eligibility checker, document checklist, name mismatch detector, and PDF readiness reporter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
